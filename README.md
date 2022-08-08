@@ -1,2 +1,2 @@
-# Data-Analysis-Projects
+# Atliq Hardware Sales Insights
 Sales Data Analysis 
